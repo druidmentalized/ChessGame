@@ -37,7 +37,7 @@ This project is a fully functional **Chess game** built with **Java** and **Java
 - `src/piece/` - All game pieces
 - `res`- Game assests like sprites and map parts
 - `README.md` - Project documentation
-- `Licence` - Project licence
+- `LICENSE` - Project license
 
 ## Licence
 This project is licensed under the MIT License

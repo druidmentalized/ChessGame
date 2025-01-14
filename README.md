@@ -19,6 +19,9 @@ This project is a fully functional **Chess game** built with **Java** and **Java
 - **Saving**
   - Previous game could be saved for later continuation
 
+## Gameplay
+![Main Game Screenshot](res/gameplay.png)
+
 ## Technologies Used
 - **Programming Language**: Java
 - **GUI Framework**: Java Swing

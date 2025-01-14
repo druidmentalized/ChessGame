@@ -5,7 +5,7 @@ This project is a fully functional **Chess game** built with **Java** and **Java
 
 ## Features
 - **Interactive GUI**:
-  - Drag-and-drop functionality for moving pieces.
+  - Choosing tiles functionality for moving pieces.
   - Visual indicators for valid moves.
 - **Standard Chess Rules**:
   - Legal piece movement enforced.
